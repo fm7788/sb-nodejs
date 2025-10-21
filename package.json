@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Node.js Server",
   "main": "app.js",
-  "author": "eooce",
-  "repository": "eooce",
+  "author": "fm7788",
+  "repository": "https://github.com/fm7788/sb-nodejs",
   "license": "MIT",
   "private": false,
   "scripts": {
