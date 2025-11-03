@@ -29,7 +29,9 @@ wget -N https://raw.githubusercontent.com/fm7788/sb-nodejs/main/app.js && UUID=�
 ```
 ----------------------------------------------------------
 ##三 TUIC在Nodejs/Python一键脚本极简部署
+
 curl -Ls https://raw.githubusercontent.com/fm7788/sb-nodejs/main/tuic/tuic.sh | sed 's/\r$//' | bash
+
 -----------------------------------------------------
 -----------------------------------------------------
 
