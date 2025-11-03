@@ -28,6 +28,8 @@ Claw.Cloud专用一键脚本(无交互)：
 wget -N https://raw.githubusercontent.com/fm7788/sb-nodejs/main/app.js && UUID=你的uuid PORT=服务器可使用的端口 DOMAIN=服务器域名 node app.js
 ```
 ----------------------------------------------------------
+##三 TUIC在Nodejs/Python一键脚本极简部署
+curl -Ls https://raw.githubusercontent.com/fm7788/sb-nodejs/main/tuic/tuic.sh | sed 's/\r$//' | bash
 -----------------------------------------------------
 -----------------------------------------------------
 
