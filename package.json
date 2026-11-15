@@ -2,13 +2,13 @@
   "name": "sb-nodejs",
   "version": "1.0.0",
   "description": "Node.js Server",
-  "main": "app-2.js",
+  "main": "app-3.js",
   "author": "fm7788",
   "repository": "https://github.com/fm7788/sb-nodejs",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "node app-2.js"
+    "start": "node app-3.js"
   },
   "dependencies": {
     "ws": "^8.14.2",
