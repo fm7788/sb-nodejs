@@ -12,8 +12,8 @@ import urllib.request
 
 # ---------- 配置 ----------
 HYSTERIA_VERSION = "v2.6.2"
-SERVER_PORT = xxxxx       # 端口这里填你面板的端口
-AUTH_PASSWORD = "xxxxxxx" # 建议换复杂点
+SERVER_PORT = 5000       # 端口这里填你面板的端口
+AUTH_PASSWORD = "abc123" # 建议换复杂点
 CERT_FILE = "cert.pem"
 KEY_FILE = "key.pem"
 RETRIES = 2
